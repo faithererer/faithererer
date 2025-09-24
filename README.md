@@ -12,7 +12,7 @@
 ---
 
 
-<img align="right" width="200" src="/assets/girl.png" alt="Avatar" />
+<img align="right" width="200" src="/assets/gir2.png" alt="Avatar" />
 
 <a href="https://git.io/typing-svg">
   <img
