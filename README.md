@@ -8,6 +8,31 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&random=true&width=435&lines=%E8%8E%AB%E5%90%AC%E7%A9%BF%E6%9E%97%E6%89%93%E5%8F%B6%E5%A3%B0%EF%BC%8C%E4%BD%95%E5%A6%A8%E5%90%9F%E5%95%B8%E4%B8%94%E5%BE%90%E8%A1%8C~" alt="Typing SVG" /></a>
 </p>
 
+
+---
+
+
+<img align="right" width="200" src="/assets/girl.png" alt="Avatar" />
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&width=520&lines=%E8%8E%AB%E5%90%AC%E7%A9%BF%E6%9E%97%E6%89%93%E5%8F%B6%E5%A3%B0%EF%BC%8C%E4%BD%95%E5%A6%A8%E5%90%9F%E5%95%B8%E4%B8%94%E5%BE%90%E8%A1%8C~"
+    alt="Typing"
+  />
+</a>
+
+我是一名热爱开源与前端的开发者，喜欢把有趣的小点子做成作品。
+ 
+
+<p>
+  <img
+    src="https://count.getloli.com/@faithererer?name=faithererer&theme=asoul&padding=6&offset=0&align=top&scale=0.6&pixelated=1&darkmode=auto"
+    alt="Visitor Count"
+  />
+</p>
+
+<br clear="both"/>
+
 <h2>⚙️ Languages</h2>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faithererer&theme=aura" alt="Languages"/>
