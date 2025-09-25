@@ -4,8 +4,15 @@
 
  
 
+<img align="right" width="200" src="/assets/girl_white.png#gh-dark-mode-only" alt="Avatar" />
+<img align="right" width="200" src="/assets/girl_black.png#gh-light-mode-only" alt="Avatar" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/assets/girl_black.png" />
+  <source media="(prefers-color-scheme: light)" srcset="/assets/girl_white.png" />
+  <img align="right" width="200" src="/assets/girl_white.png" alt="Avatar" />
+</picture>
 
-<img align="right" width="200" src="/assets/girl_white.png" alt="Avatar" />
+
 
 <a href="https://git.io/typing-svg">
   <img
