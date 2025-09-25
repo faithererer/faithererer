@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Signika+Negative&weight=600&size=36&pause=1000&color=39C5BB&center=true&width=1000&height=60&lines=Hi++there+%F0%9F%91%8B+Welcome+to+my+page%F0%9F%A5%B0+I'm+Faithererer" alt="Hello World!" />
+<img src="https://readme-typing-svg.demolab.com?font=Signika+Negative&weight=600&size=36&pause=5000&duration=1000&color=39C5BB&center=true&width=1000&height=60&lines=Hi++there+%F0%9F%91%8B+Welcome+to+my+page%F0%9F%A5%B0+I'm+Faithererer" alt="Hello World!" />
 
  
 
